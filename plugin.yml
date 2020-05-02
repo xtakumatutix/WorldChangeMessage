@@ -1,0 +1,7 @@
+name: WorldChangeMessage
+api: 3.0.0
+main: xtakumatutix\wcm\Main
+version: 1.0.0
+description: ワールドを変えた時にメッセージを
+author: xtakumatutix
+load: POSTWORLD
